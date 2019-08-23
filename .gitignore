@@ -2,3 +2,4 @@ __pycache__
 data/GoogleNews-vectors-negative300-SLIM.bin
 .vscode
 .ipynb_checkpoints
+data/saved-parameters
