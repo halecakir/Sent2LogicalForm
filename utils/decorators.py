@@ -4,8 +4,10 @@ import time
 
 from .log import LOGGER
 
+
 def logging(func):
     """Print the function signature and return value"""
+
     @functools.wraps(func)
     def wrapper_debug(*args, **kwargs):
         args_repr = [repr(a) for a in args]
@@ -19,4 +21,5 @@ def logging(func):
         run_time = end_time - start_time
         LOGGER.info("Finished %s in %.4f secs", func.__name__, run_time)
         return value
+
     return wrapper_debug
