@@ -22,3 +22,8 @@
 ### Sentence 2 : Which state boder s0?
 
 ![enter image description here](https://raw.githubusercontent.com/halecakir/ThesisExperiments/master/extra/sample1.png?token=ABFN2T5EFCM4H2K2IHGF5GK66B2AW)
+
+Base Implementation :
+https://github.com/Alex-Fabbri/lang2logic-PyTorch
+Original Paper:
+https://arxiv.org/pdf/1601.01280.pdf
