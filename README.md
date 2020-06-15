@@ -10,7 +10,7 @@
 ![enter image description here](https://raw.githubusercontent.com/halecakir/Sent2LogicalForm/master/extra/lstm.jpg?token=ABFN2TYLIBAPOGRRTVSYAQ266BZ5U)
 ###  Sequence-to-Sequence  + Attention
 
-![enter image description here](https://raw.githubusercontent.com/halecakir/Sent2LogicalForm/master/extra/attention.jpg?token=ABFN2T7TC4DJI2SEXGIG34K66BZ2M)
+![enter image description here](https://github.com/halecakir/Sent2LogicalForm/blob/master/extra/attention.jpg)
 ## Attention Weight Matrix
 
 
